@@ -150,7 +150,8 @@ src/
 
 # 👨‍💻 Author
 
-**Mark J Yadav**
+**Mark J Yadav **
+**CoderHub Mfg **
 
 * Full Stack Developer 
 * Focused on building SaaS & freelance-ready projects
